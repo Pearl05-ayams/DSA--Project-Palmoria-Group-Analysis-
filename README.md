@@ -1,4 +1,4 @@
-# DSA--Project-Palmoria-Group-Analysis-
+# DSA--Project-(Palmoria-Group-HR-Analysis)Power BI
 ## Introduction 
 As a privileged trainee of DSA training on Data Analysis, I have been given the opportunity to have a hands-on experience which is valuable for reinforcing your learning and gaining real-world experience. 
 ## Project Overview 
